@@ -11,5 +11,3 @@ This app was created with help from a tutorial to learn React using Axios to sen
 
 [API Link](https://www.coingecko.com/en/api)
 
-<a href="https://www.coingecko.com/en/api" target="_blank">API Link</a>
-
